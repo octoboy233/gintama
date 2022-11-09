@@ -1,0 +1,8 @@
+server:
+  port: 8081
+
+#规定用户配置都在config条目下
+config:
+  user:
+    score: 100
+    age: 19
